@@ -1,8 +1,5 @@
 <template>
   <div class="about">
-    <Stras
-      :num="3"
-      :size="30"
-    />
+    <h1>This is an about page</h1>
   </div>
 </template>
